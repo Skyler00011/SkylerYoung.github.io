@@ -1,32 +1,25 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Skyler Young Portfolio  
 
+## Overview  
+This is my personal portfolio website, built using GitHub Pages, to showcase my data analysis and visualization projects. The portfolio serves as a centralized hub where visitors can explore my work, including SQL data cleaning, Tableau visualizations, and other analytical projects.  
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## Features  
+- Project Showcase: Displays detailed case studies of my work.  
+- Interactive Visualizations: Embedded Tableau dashboards for data-driven insights.  
+- Clean & Professional Design: Simple navigation for easy access to projects.  
+- Live Deployment: Hosted using GitHub Pages for seamless accessibility.  
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Projects Included  
+- Airbnb Portfolio Project: Analyzing pricing trends and availability.  
+- World Layoffs Data Cleaning: Optimizing layoff data for analysis.  
+- Experimental Data Analysis: Identifying trends in global layoffs.  
+- More projects will be added as I continue to expand my work.  
 
-(* = not included)
+## Tools Used  
+- GitHub Pages: Hosting and deployment.  
+- HTML & CSS: Structuring and styling the portfolio.  
+- Markdown: Formatting project documentation.  
+- Tableau & SQL: Data analysis and visualization.  
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Conclusion  
+This portfolio is a growing collection of my work in data analysis and visualization. It showcases my ability to clean, analyze, and present data in meaningful ways. More projects and features will be added as I continue to develop my skills.
